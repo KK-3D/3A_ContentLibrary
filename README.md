@@ -6,19 +6,19 @@ Welcome to the official user manual for 3A_Content Library, a powerful asset and
 
 Table of Contents
 
-Introduction
+1. Introduction
 
-User Interface Overview
+2. User Interface Overview
 
-Library Path & Navigation
+3. Library Path & Navigation
 
-Browsing Materials and Objects
+4. Browsing Materials and Objects
 
-Favorites, Sorting, and Grid Controls
+5. Favorites, Sorting, and Grid Controls
 
-Saving and Managing Assets
+6. Saving and Managing Assets
 
-Installation & Requirements
+7. Installation & Requirements
 
 1. Introduction
 
