@@ -1,42 +1,83 @@
 # 3A_ContentLibrary-For-LightWave3D
 3A_ContentLibrary
-3A_Content Library v0.24
-Official User Manual & Reference Guide for LightWave 3D
+3A_Content Library for LightWave 3D
 
-3A_Content Library is a powerful asset management plugin designed specifically for LightWave 3D. It provides lightning-fast browsing, categorization, thumbnail generation, and drag-and-drop placement for 3D objects, scene setups, and advanced materials (including Native and Octane shaders).
+Welcome to the official user manual for 3A_Content Library, a powerful asset and material management plugin designed specifically for LightWave 3D. This tool streamlines your workflow by providing an organized, visually rich interface to browse, preview, manage, and drag-and-drop materials and 3D objects directly into your scenes.
 
-1. Interface & Navigation Overview
-The main dashboard is engineered for high productivity in production environments. It features a folder hierarchy browser, asset sorting tools, favorite flagging, and instant search capabilities.
+Table of Contents
 
-3A_Content Library Materials Interface
-Figure 1: Main browser window showing Octane Wood Flooring materials and tree hierarchy.
-Key Interface Components
-Library Root Path: Displays the active directory path (e.g., `E:\CONTENT\Content Library\`). Click Browse... to switch directories or Refresh to update assets.
-Category Tree (Left Panel): Organizes assets logically into Materials (Native, Octane Emission, Fabric, Glass, Metals, Plastic, Wood) and Objects (Clothing, Decorations, Furniture, Lighting).
-Search & Filter Bar: Filter items instantly by typing keywords or toggle between Favorites, Fit All, and sorting modes (`Most used`, `Name A-Z`).
-3A_Content Library Manual
-Page 1 of 3
-2. Managing Objects, Furniture & Decor
-The plugin excels at handling complex 3D object collections, such as interior furniture, seating, books, mirrors, and decorative elements, letting artists populate scenes instantly.
+Introduction
 
-Furniture & Lighting Asset Management
-Figure 2: Managing Seating models, armchairs, and emission studio lighting setups.
-When browsing objects (such as armchairs or decorative items), you can mark items with the red star icon to add them to your Favorites list for quick recall during tight deadlines.
+User Interface Overview
 
-Decorations and Magazines library view
-Figure 3: Detailed view of Books, Magazines, and Mirrors under the Decorations category.
-Placement Modes: Use the bottom toolbar toggles to choose between Snap to mesh and Grid snap, ensuring precise alignment when dropping assets into your LightWave 3D viewport.
-3A_Content Library Manual
-Page 2 of 3
-3. Material Shaders & Custom Thumbnails
-Applying and updating material presets is streamlined for both Native LightWave shaders and third-party render engines like Octane Render.
+Library Path & Navigation
 
-Metal and Surface Material Library
-Figure 4: Managing Metal surface shaders (`.3omat`) with instant thumbnail preview storage feedback.
-Workflow Quick Reference
-Action	Description
-Save Object / Material	Quickly export selected scene items or surface settings directly into your library path.
-Set Thumbnail	Generate and assign custom high-quality rendered previews to `.3oob` objects or `.3omat` materials.
-Drag to Layout	Drag any library thumbnail directly into LightWave Layout to instantly instantiate assets.
-4. Troubleshooting & Support
-If assets fail to appear after adding new files to your storage directory, click the Refresh button in the top right corner. Ensure that your folder structure maintains valid LightWave object and material formats.
+Browsing Materials and Objects
+
+Favorites, Sorting, and Grid Controls
+
+Saving and Managing Assets
+
+Installation & Requirements
+
+1. Introduction
+
+3A_Content Library bridges the gap between your external asset directories and LightWave 3D Layout. Instead of digging through deep folder hierarchies, artists can instantly access categorized shaders, textures, and 3D models with high-resolution thumbnail previews, favorite tagging, and seamless drag-and-drop functionality.
+
+2. User Interface Overview
+
+The interface is structured for maximum efficiency, dividing your workspace into a directory tree on the left, a top control/toolbar section, and a large interactive asset grid in the center.
+
+Key UI Sections:
+
+Library Path Bar: Displays the current root folder (E:\CONTENT\Content Library\) with quick buttons to Browse and Refresh your library contents.
+
+Asset Type Selector: Switch between viewing Objects + Materials, pure Objects, or pure Materials.
+
+Search & Filter Bar: Quickly look up assets by name or refine results using categories and tags.
+
+Thumbnail Grid: Displays items with rich visual previews, star ratings for favorites, and direct status notifications in the status bar at the bottom.
+
+3. Library Path & Navigation
+
+Navigating complex libraries is fast and intuitive using the collapsible folder tree view on the left-hand panel.
+
+Directory Structure: Organize assets logically into Materials (Native, Octane - Emission, Fabric, Glass, Metals, Plastic, Wood, Wood Flooring) and Objects (Clothing, Decorations, Furniture, Kitchens, Lighting).
+
+Dynamic Updating: Selecting any subfolder instantly populates the main grid with relevant assets.
+
+4. Browsing Materials and Objects
+
+The plugin supports specialized asset types with tailored handling for LightWave workflows.
+
+Material Preview: Materials are rendered on preview spheres so you can inspect roughness, reflectivity, bump maps, and displacement before application.
+
+Status Feedback: The bottom status bar confirms actions instantly, such as notifying you when a thumbnail is stored inside a material file (e.g., Thumbnail stored inside Metal Material (34).3omat).
+
+5. Favorites, Sorting, and Grid Controls
+
+Tailor your viewing experience to suit your immediate production needs.
+
+Sorting Options: Sort items by Most Used, alphabetical order, or custom criteria.
+
+Favorites System: Click the star icon on any asset to add it to your Favorites collection for quick retrieval during tight deadlines.
+
+Grid Scaling & Snapping: Use thumbnail size sliders (Medium, Large), Fit All, and toggle options like Snap to mesh, Grid snap, and Light drag to control how assets interact when dropped into the viewport.
+
+6. Saving and Managing Assets
+
+Managing your growing library directly inside LightWave 3D is straightforward using the action buttons along the top right:
+
+Save Object / Save Material: Export current scene selections directly into your library structure.
+
+Set Thumbnail: Capture custom viewport or render thumbnails for your assets.
+
+Manage: Organize, rename, or delete library items cleanly.
+
+7. Installation & Requirements
+
+Requirements: LightWave 3D (compatible with recent Layout versions supporting Python/LScript plugins).
+
+Installation: Place the 3A_Content Library plugin files into your LightWave plugins directory or load them via the Layout Plugin handler.
+
+Configuration: Point the library browser to your shared network or local content directory (Content Library).
