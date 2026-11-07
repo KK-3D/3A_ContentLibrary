@@ -1,5 +1,4 @@
 # 3A_ContentLibrary-For-LightWave3D
-3A_ContentLibrary
 
 <img width="756" height="436" alt="Captura de ecrã 2026-11-07 173140" src="https://github.com/user-attachments/assets/5c5aca61-d93b-41f5-b6fe-4e83953b8c91" />
 
