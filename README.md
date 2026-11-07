@@ -4,6 +4,7 @@
 
 <img width="756" height="436" alt="Captura de ecrã 2026-11-07 173140" src="https://github.com/user-attachments/assets/5c5aca61-d93b-41f5-b6fe-4e83953b8c91" />
 
+
 Welcome to the official user manual for 3A_Content Library, a powerful asset and material management plugin designed specifically for LightWave 3D. This tool streamlines your workflow by providing an organized, visually rich interface to browse, preview, manage, and drag-and-drop materials and 3D objects directly into your scenes.
 
 Table of Contents
