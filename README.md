@@ -40,6 +40,9 @@ Key UI Sections:
 
 Library Path Bar: Displays the current root folder (E:\CONTENT\Content Library\) with quick buttons to Browse and Refresh your library contents.
 
+<img width="872" height="625" alt="3A_Content Library_Modes" src="https://github.com/user-attachments/assets/bd691a2e-e21e-4c7e-a028-726fd09032ce" />
+
+
 Asset Type Selector: Switch between viewing Objects + Materials, pure Objects, or pure Materials.
 
 <img width="872" height="625" alt="3A_Content Library_Modes" src="https://github.com/user-attachments/assets/939e9a0c-63b2-4eca-a9d0-0d256bb78a4c" />
