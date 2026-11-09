@@ -20,6 +20,9 @@ Table of Contents
 
 7. Installation & Requirements
 
+
+3A_Content Library
+
 1. Introduction
 
 3A_Content Library bridges the gap between your external asset directories and LightWave 3D Layout. Instead of digging through deep folder hierarchies, artists can instantly access categorized shaders, textures, and 3D models with high-resolution thumbnail previews, favorite tagging, and seamless drag-and-drop functionality.
