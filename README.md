@@ -40,7 +40,7 @@ Library Path Bar: Displays the current root folder (E:\CONTENT\Content Library\)
 
 Asset Type Selector: Switch between viewing Objects + Materials, pure Objects, or pure Materials.
 
-<img width="872" height="625" alt="3A_Content Library_Modes" src="https://github.com/user-attachments/assets/bd691a2e-e21e-4c7e-a028-726fd09032ce" />
+<img width="713" height="453" alt="3A_Content Library_Modes" src="https://github.com/user-attachments/assets/ed9f6906-24f9-453f-9e9e-f722ee17af55" />
 
 Search & Filter Bar: Quickly look up assets by name or refine results using categories and tags.
 
