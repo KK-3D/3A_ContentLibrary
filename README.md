@@ -32,10 +32,9 @@ Table of Contents
 
 2. User Interface Overview
 
-<img width="756" height="436" alt="Captura de ecrã 2026-11-07 173140" src="https://github.com/user-attachments/assets/5c5aca61-d93b-41f5-b6fe-4e83953b8c91" />
-
-
 The interface is structured for maximum efficiency, dividing your workspace into a directory tree on the left, a top control/toolbar section, and a large interactive asset grid in the center.
+
+<img width="756" height="436" alt="Captura de ecrã 2026-11-07 173140" src="https://github.com/user-attachments/assets/5c5aca61-d93b-41f5-b6fe-4e83953b8c91" />
 
 Key UI Sections:
 
